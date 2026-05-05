@@ -1,0 +1,9 @@
+pip install fastapi
+pip install pydantic
+pip install 'pydantic[email]
+pip install sqlalchemy
+pip install uvicorn
+pip install "python-jose[cryptography]"
+pip install "passlib[bcrypt]"
+pip install pydantic-settings
+pip install bcrypt==4.0.1
